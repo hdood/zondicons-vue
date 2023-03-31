@@ -1,3 +1,4 @@
+
 # ZondIcons Vue.js
 Zondicons components for Vue.js.
 
@@ -5,8 +6,9 @@ Zondicons components for Vue.js.
    [See icons preview](https://www.zondicons.com/icons.html)
    
 # Instalation 
-       Run the following commande to install the package : 
-	foo@bar:~$ npm i zondicons-vue
+Run the following commande in the terminal to install the package : 
+
+    $ npm i zondicons-vue
 
 ## How to use
 
