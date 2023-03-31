@@ -1,0 +1,1 @@
+export default defineAsyncComponent(() => import('../icons/tools copy.vue))

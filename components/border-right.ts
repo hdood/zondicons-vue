@@ -1,0 +1,1 @@
+export default defineAsyncComponent(() => import('../icons/border-right.vue))

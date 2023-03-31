@@ -1,0 +1,1 @@
+export default defineAsyncComponent(() => import('../icons/hard-drive.vue))
