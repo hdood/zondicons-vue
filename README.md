@@ -18,7 +18,7 @@ zondicons components for Vue.js.
     app.use(zondicons)
     
     app.mount("#app"); 
-   in template 
+   in template write the icon name in pascal case, eg: arrow-left becomes ArrowLeft
    
 
 	// App.vue
