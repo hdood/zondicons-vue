@@ -1,1 +1,2 @@
-export default defineAsyncComponent(() => import('../icons/airplane.vue))
+import { defineAsyncComponent  } from 'vue';
+export default defineAsyncComponent(() => import('../icons/airplane.vue'))

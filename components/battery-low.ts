@@ -1,1 +1,2 @@
-export default defineAsyncComponent(() => import('../icons/battery-low.vue))
+import { defineAsyncComponent  } from 'vue';
+export default defineAsyncComponent(() => import('../icons/battery-low.vue'))

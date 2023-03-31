@@ -1,1 +1,2 @@
-export default defineAsyncComponent(() => import('../icons/user-group.vue))
+import { defineAsyncComponent  } from 'vue';
+export default defineAsyncComponent(() => import('../icons/user-group.vue'))

@@ -1,1 +1,2 @@
-export default defineAsyncComponent(() => import('../icons/arrow-thin-left.vue))
+import { defineAsyncComponent  } from 'vue';
+export default defineAsyncComponent(() => import('../icons/arrow-thin-left.vue'))

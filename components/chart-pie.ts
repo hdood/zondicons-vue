@@ -1,1 +1,2 @@
-export default defineAsyncComponent(() => import('../icons/chart-pie.vue))
+import { defineAsyncComponent  } from 'vue';
+export default defineAsyncComponent(() => import('../icons/chart-pie.vue'))

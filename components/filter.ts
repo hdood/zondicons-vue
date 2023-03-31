@@ -1,1 +1,2 @@
-export default defineAsyncComponent(() => import('../icons/filter.vue))
+import { defineAsyncComponent  } from 'vue';
+export default defineAsyncComponent(() => import('../icons/filter.vue'))
